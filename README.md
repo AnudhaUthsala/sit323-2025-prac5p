@@ -116,7 +116,7 @@ The repository contains the following files:
   ```
 - Tag your Docker image:
   ```bash
-  docker tag my-web-app AnudhaUthsala/sit323-2025-prac5p:latest
+  docker tag sit323-2025-prac5p AnudhaUthsala/sit323-2025-prac5p:latest
   ```
 - Push the image to Docker Hub:
   ```bash
