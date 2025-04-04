@@ -123,17 +123,5 @@ The repository contains the following files:
   docker push AnudhaUthsala/sit323-2025-prac5p:latest
   ```
 
----
 
-### **Submission Details**
-- Push your code, `Dockerfile`, and `docker-compose.yml` to a GitHub repository.
-  - Name the repository `sit323-2025-prac5p`.
-  - The repository URL should look like this:
-    ```
-    https://github.com/AnudhaUthsala/sit323-2025-prac5p
-    ```
-- Include detailed documentation in your repository explaining each step you followed.
-- Submit the repository link through OnTrack. Optionally, include screenshots of your steps or code to support your submission.
-
----
 
